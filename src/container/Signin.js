@@ -1,6 +1,6 @@
 import React from 'react'
 import { View, Text,StyleSheet } from 'react-native';
-import { createStackNavigator } from 'react-navigation';
+import { createStackNavigator } from '@react-navigation/stack';
 import {Button,Form,Item,Input,Label} from 'native-base'
 
 
